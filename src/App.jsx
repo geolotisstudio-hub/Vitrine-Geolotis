@@ -505,7 +505,7 @@ function App() {
                 <div className="relative">
                   <Download className="w-14 h-14 mx-auto mb-6" />
                   <h3 className="text-3xl font-bold mb-3">Télécharger GéoLotis</h3>
-                  <p className="text-green-100 text-lg">Installateur .exe (v1.8.2)</p>
+                  <p className="text-green-100 text-lg">Installateur .exe (v2.4.1)</p>
                 </div>
               </motion.a>
             </div>
