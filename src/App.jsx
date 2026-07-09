@@ -163,7 +163,7 @@ function App() {
                 } shadow-sm`}
               >
                 <CheckCircle className="w-5 h-5" />
-                <span>Version 1.8.2 • Disponible maintenant</span>
+                <span>Version 2.4.1 • Disponible maintenant</span>
               </motion.div>
               
               <motion.h1
@@ -489,7 +489,7 @@ function App() {
               Télécharger GéoLotis
             </h2>
             <p className={`text-2xl mb-16 ${darkMode ? 'text-slate-300' : 'text-slate-600'}`}>
-              Version 1.8.2 • Windows 10/11 (64-bit)
+              Version 2.4.1 • Windows 10/11 (64-bit)
             </p>
 
             <div className="max-w-md mx-auto mb-16">
