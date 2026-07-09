@@ -494,7 +494,7 @@ function App() {
 
             <div className="max-w-md mx-auto mb-16">
               <motion.a
-                href="https://github.com/geolotisstudio-hub/Vitrine-Geolotis/releases/download/v1.8.2/GeoLotis.exe"
+                href="https://github.com/geolotisstudio-hub/Vitrine-Geolotis/releases/download/v2.4.1/GeoLotis.exe"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05, y: -5 }}
